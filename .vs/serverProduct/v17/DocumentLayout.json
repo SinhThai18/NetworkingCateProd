@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\serverproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\serverproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|d:\\prnn\\networkingcateprod-master\\networkingcateprod-master\\serverproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9895E929-B9FC-4141-9107-BBB96399F306}|serverProduct\\serverProduct.csproj|solutionrelative:serverproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Database.cs",
+              "RelativeDocumentMoniker": "serverProduct\\Database.cs",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Database.cs",
+              "RelativeToolTip": "serverProduct\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:48:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Program.cs",
+              "RelativeDocumentMoniker": "serverProduct\\Program.cs",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Program.cs",
+              "RelativeToolTip": "serverProduct\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:07:52.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Client.cs",
+              "RelativeDocumentMoniker": "serverProduct\\Client.cs",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Client.cs",
+              "RelativeToolTip": "serverProduct\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:49:14.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "serverProduct\\Models\\Product.cs",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Models\\Product.cs",
+              "RelativeToolTip": "serverProduct\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:05:12.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "serverProduct\\Models\\Category.cs",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\Models\\Category.cs",
+              "RelativeToolTip": "serverProduct\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:05:12.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\appsettings.json",
+              "RelativeDocumentMoniker": "serverProduct\\appsettings.json",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\appsettings.json",
+              "RelativeToolTip": "serverProduct\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T09:28:34.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serverProduct.csproj",
+              "DocumentMoniker": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\serverProduct.csproj",
+              "RelativeDocumentMoniker": "serverProduct\\serverProduct.csproj",
+              "ToolTip": "D:\\prnn\\NetworkingCateProd-master\\NetworkingCateProd-master\\serverProduct\\serverProduct.csproj",
+              "RelativeToolTip": "serverProduct\\serverProduct.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T09:31:44.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
